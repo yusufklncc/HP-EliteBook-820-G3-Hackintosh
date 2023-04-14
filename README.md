@@ -1,7 +1,7 @@
 <h1 align="center"> macOS on HP EliteBook 820 G3 </h1>
 
 <p align="center">
-  <img src="https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh/blob/main/Images/HP%20EliteBook%20820%20G3.png" width="400" alt="EliteBook 820 G3">
+  <img src="https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh/blob/main/Images/HP%20EliteBook%20820%20G3.png" width="600" alt="EliteBook 820 G3">
 </p>
 
 <h4 align="center"> OpenCore config for Hackintosh HP EliteBook 820 G3 </h4>
