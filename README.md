@@ -28,7 +28,6 @@
   - [macOS Update History](https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh#macos-update-history)
   - [What's working](https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh#whats-working--)
   - [What's you have to do](https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh#whats-you-have-to-do--)
-
   - [How to make it better?](https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh#how-to-make-it-better)
     - [Advanced Resolution](https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh#advanced-resolution)
   - [Credits](https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh#credits)
