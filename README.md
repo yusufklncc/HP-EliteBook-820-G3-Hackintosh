@@ -23,20 +23,15 @@
   <img src="https://img.shields.io/badge/-@sevenpay-white?logo=PayPal" width="140"/> </a>
 
 ## Contents
-  - [Screenshots](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#screenshots-)
-  - [Original Hardware](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#original-hardware--)
-  - [Modifications](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#modifications--)
-  - [macOS Update History](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#macos-update-history)
-  - [What's working](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#whats-working--)
-  - [What's you have to do](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#whats-you-have-to-do--)
-  - [Kexts Used](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#kext-used)
-  - [SSDTs Used](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#ssdt-used)
-  - [Changelog](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#changelog)
-  - [How to make it better?](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#how-to-make-it-better)
-    - [Advanced Resolution](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#advanced-resolution)
-    - [Thinkpad's Click and Trackpad](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#thinkpads-click-and-trackpad)
-    - [DW1820A Windows Driver](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#dw1820a-windows-1011-driver)
-  - [Credits](https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh#credits)
+  - [Screenshots](https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh#screenshots-)
+  - [Original Hardware](https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh#original-hardware--)
+  - [macOS Update History](https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh#macos-update-history)
+  - [What's working](https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh#whats-working--)
+  - [What's you have to do](https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh#whats-you-have-to-do--)
+
+  - [How to make it better?](https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh#how-to-make-it-better)
+    - [Advanced Resolution](https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh#advanced-resolution)
+  - [Credits](https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh#credits)
   - [Donate](https://github.com/yusufklncc/yusfklncc/blob/main/Donate%20-%20Bağış.md)
   
 ## Screenshots 📷
@@ -44,7 +39,7 @@
 <details>
 <summary>Monterey</summary>
 <p align="center">
-  <img src="https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh/blob/main/macOS%20Screenshots/macOS%20Monterey.png">
+  <img src="https://github.com/yusufklncc/HP-EliteBook-820-G3-Hackintosh/blob/main/Images/Monterey.png">
 </p>
 </details>
 
