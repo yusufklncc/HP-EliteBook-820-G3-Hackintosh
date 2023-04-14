@@ -48,7 +48,7 @@ Type | Spec | Status
 :---------|:---------|:----------
 Model Name      | HP EliteBook 820 G3 | ✅
 CPU              | Intel® Core™ i5-6200U CPU @ 2.30GHz | ✅
-RAM           | SK Hynix HMA851S6AFR6N-UH 8(4+4) GB 2133 MHz DDR4 | ✅
+RAM           |  8 GB 2133 MHz DDR4 | ✅
 Internal Graphics Card | Intel® HD Graphics 520 | ✅
 Wi-Fi             | Intel® Dual Band Wireless-AC 8260 | ✅
 Ethernet          | Intel® Ethernet Connection I219-V | ✅
